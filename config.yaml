@@ -1,0 +1,5 @@
+images_path: /home/shubham/pratham_work/cvat_verification_automation/images
+labels_path: /home/shubham/pratham_work/cvat_verification_automation/labels
+classes_file_path: /home/shubham/pratham_work/cvat_verification_automation/classes.txt
+crop_folder_path: /home/shubham/pratham_work/cvat_verification_automation/crops_20240925
+runs_path: /home/shubham/pratham_work/cvat_verification_automation/runs_20240925
